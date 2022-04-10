@@ -1,0 +1,711 @@
+﻿idBase2018;NomeOrg;Sigla;Status;Tipo;Segmento
+1;Câmara dos Deputados;CD;4.Submetido;Casa legislativa;LEG
+2;Fundo Rotativo da Câmara dos Deputados;FRCD;0.Excluído;Fundo;Fundo
+3;Senado Federal;SF;4.Submetido;Casa legislativa;LEG
+4;Tribunal de Contas da União;TCU;4.Submetido;Tribunal;LEG
+5;Supremo Tribunal Federal;STF;4.Submetido;Tribunal;JUD
+6;Superior Tribunal de Justiça;STJ;4.Submetido;Tribunal;JUD
+7;Justiça Federal de Primeiro Grau;JFPG;0.Excluído;Tribunal;JUD
+8;Tribunal Regional Federal da 1a. Região;TRF1;4.Submetido;Tribunal;JUD
+9;Tribunal Regional Federal da 2a. Região;TRF2;4.Submetido;Tribunal;JUD
+10;Tribunal Regional Federal da 3a. Região;TRF3;4.Submetido;Tribunal;JUD
+11;Tribunal Regional Federal da 4a. Região;TRF4;4.Submetido;Tribunal;JUD
+12;Tribunal Regional Federal da 5a. Região;TRF5;4.Submetido;Tribunal;JUD
+13;Superior Tribunal Militar;STM;4.Submetido;Tribunal;JUD
+14;Tribunal Superior Eleitoral;TSE;4.Submetido;Tribunal;JUD
+15;Tribunal Regional Eleitoral do Acre;TRE-AC;4.Submetido;Tribunal;JUD
+16;Tribunal Regional Eleitoral de Alagoas;TRE-AL;4.Submetido;Tribunal;JUD
+17;Tribunal Regional Eleitoral do Amazonas;TRE-AM;4.Submetido;Tribunal;JUD
+18;Tribunal Regional Eleitoral da Bahia;TRE-BA;4.Submetido;Tribunal;JUD
+19;Tribunal Regional Eleitoral do Ceará;TRE-CE;4.Submetido;Tribunal;JUD
+20;Tribunal Regional Eleitoral do Distrito Federal;TRE-DF;4.Submetido;Tribunal;JUD
+21;Tribunal Regional Eleitoral do Espírito Santo;TRE-ES;4.Submetido;Tribunal;JUD
+22;Tribunal Regional Eleitoral de Goiás;TRE-GO;4.Submetido;Tribunal;JUD
+23;Tribunal Regional Eleitoral do Maranhão;TRE-MA;4.Submetido;Tribunal;JUD
+24;Tribunal Regional Eleitoral de Mato Grosso;TRE-MT;4.Submetido;Tribunal;JUD
+25;Tribunal Regional Eleitoral de Mato Grosso do Sul;TRE-MS;4.Submetido;Tribunal;JUD
+26;Tribunal Regional Eleitoral de Minas Gerais;TRE-MG;4.Submetido;Tribunal;JUD
+27;Tribunal Regional Eleitoral do Pará;TRE-PA;4.Submetido;Tribunal;JUD
+28;Tribunal Regional Eleitoral da Paraíba;TRE-PB;4.Submetido;Tribunal;JUD
+29;Tribunal Regional Eleitoral do Paraná;TRE-PR;4.Submetido;Tribunal;JUD
+30;Tribunal Regional Eleitoral de Pernambuco;TRE-PE;4.Submetido;Tribunal;JUD
+31;Tribunal Regional Eleitoral do Piauí;TRE-PI;4.Submetido;Tribunal;JUD
+32;Tribunal Regional Eleitoral do Rio de Janeiro;TRE-RJ;4.Submetido;Tribunal;JUD
+33;Tribunal Regional Eleitoral do Rio Grande do Norte;TRE-RN;4.Submetido;Tribunal;JUD
+34;Tribunal Regional Eleitoral do Rio Grande do Sul;TRE-RS;4.Submetido;Tribunal;JUD
+35;Tribunal Regional Eleitoral de Rondônia;TRE-RO;4.Submetido;Tribunal;JUD
+36;Tribunal Regional Eleitoral de Santa Catarina;TRE-SC;4.Submetido;Tribunal;JUD
+37;Tribunal Regional Eleitoral de São Paulo;TRE-SP;4.Submetido;Tribunal;JUD
+38;Tribunal Regional Eleitoral de Sergipe;TRE-SE;4.Submetido;Tribunal;JUD
+39;Tribunal Regional Eleitoral de Tocantins;TRE-TO;4.Submetido;Tribunal;JUD
+40;Tribunal Regional Eleitoral de Roraima;TRE-RR;4.Submetido;Tribunal;JUD
+41;Tribunal Regional Eleitoral do Amapá;TRE-AP;4.Submetido;Tribunal;JUD
+42;Fundo Especial de Assistência Financeira aos Partidos Políticos;Fundo Partidário;0.Excluído;Fundo;Fundo
+43;Tribunal Superior do Trabalho;TST;4.Submetido;Tribunal;JUD
+44;Tribunal Regional do Trabalho da 1a. Região - Rio de Janeiro;TRT1;4.Submetido;Tribunal;JUD
+45;Tribunal Regional do Trabalho da 2a. Região - São Paulo;TRT2;4.Submetido;Tribunal;JUD
+46;Tribunal Regional do Trabalho da 3a. Região - Minas Gerais;TRT3;4.Submetido;Tribunal;JUD
+47;Tribunal Regional do Trabalho da 4a. Região - Rio Grande do Sul;TRT4;4.Submetido;Tribunal;JUD
+48;Tribunal Regional do Trabalho da 5a. Região - Bahia;TRT5;4.Submetido;Tribunal;JUD
+49;Tribunal Regional do Trabalho da 6a. Região - Pernambuco;TRT6;4.Submetido;Tribunal;JUD
+50;Tribunal Regional do Trabalho da 7a. Região - Ceará;TRT7;4.Submetido;Tribunal;JUD
+51;Tribunal Regional do Trabalho da 8a. Região - Pará/Amapá;TRT8;4.Submetido;Tribunal;JUD
+52;Tribunal Regional do Trabalho da 9a. Região - Paraná;TRT9;4.Submetido;Tribunal;JUD
+53;Tribunal Regional do Trabalho da 10a. Região - Distrito Federal/Tocantins;TRT10;4.Submetido;Tribunal;JUD
+54;Tribunal Regional do Trabalho da 11a. Região - Amazonas/Roraima;TRT11;4.Submetido;Tribunal;JUD
+55;Tribunal Regional do Trabalho da 12a. Região - Santa Catarina;TRT12;4.Submetido;Tribunal;JUD
+56;Tribunal Regional do Trabalho da 13a. Região - Paraíba;TRT13;4.Submetido;Tribunal;JUD
+57;Tribunal Regional do Trabalho da 14a. Região - Rondônia/Acre;TRT14;4.Submetido;Tribunal;JUD
+58;Tribunal Regional do Trabalho da 15a. Região - Campinas/SP;TRT15;4.Submetido;Tribunal;JUD
+59;Tribunal Regional do Trabalho da 16a. Região - Maranhão;TRT16;4.Submetido;Tribunal;JUD
+60;Tribunal Regional do Trabalho da 17a. Região - Espírito Santo;TRT17;4.Submetido;Tribunal;JUD
+61;Tribunal Regional do Trabalho da 18a. Região - Goiás;TRT18;4.Submetido;Tribunal;JUD
+62;Tribunal Regional do Trabalho da 19a. Região - Alagoas;TRT19;4.Submetido;Tribunal;JUD
+63;Tribunal Regional do Trabalho da 20a. Região - Sergipe;TRT20;4.Submetido;Tribunal;JUD
+64;Tribunal Regional do Trabalho da 21a. Região - Rio Grande do Norte;TRT21;4.Submetido;Tribunal;JUD
+65;Tribunal Regional do Trabalho da 22a. Região - Piauí;TRT22;4.Submetido;Tribunal;JUD
+66;Tribunal Regional do Trabalho da 23a. Região - Mato Grosso;TRT23;4.Submetido;Tribunal;JUD
+67;Tribunal Regional do Trabalho da 24a. Região - Mato Grosso do Sul;TRT24;4.Submetido;Tribunal;JUD
+68;Conselho Superior da Justiça do Trabalho;CSJT;4.Submetido;Tribunal;JUD
+69;Tribunal de Justiça do Distrito Federal e dos Territórios;TJDFT;4.Submetido;Tribunal;JUD
+70;Justiça da Infância e da Juventude;JIJ;0.Excluído;Tribunal;JUD
+71;Conselho Nacional de Justiça;CNJ;4.Submetido;Tribunal;JUD
+72;Secretaria-Geral da Presidência da República;SG-PR;4.Submetido;Ministério;EXE-Sipec
+73;Agência Brasileira de Inteligência;ABIN;4.Submetido;Órgão executivo (Adm. Direta);EXE-Sipec
+74;Secretaria Especial de Agricultura Familiar e do Desenvolvimento Agrário;SEAD;4.Submetido;Órgão executivo (Adm. Direta);EXE-Sipec
+75;Instituto Nacional de Colonização e Reforma Agrária;INCRA;4.Submetido;Autarquia;EXE-Sipec
+76;Instituto Nacional de Tecnologia da Informação;ITI;4.Submetido;Autarquia;EXE-Sipec
+77;Secretaria Nacional de Políticas para as Mulheres;SPM;0.Excluído;Órgão executivo (Adm. Direta);EXE-Sipec
+78;Empresa Brasil de Comunicação S.A.;EBC;4.Submetido;Estatal;EXE-Dest
+79;Empresa de Planejamento e Logística S.A.;EPL;4.Submetido;Estatal;EXE-Dest
+80;Imprensa Nacional;IN;4.Submetido;Órgão executivo (Adm. Direta);EXE-Sipec
+81;Ministério da Agricultura, Pecuária e Abastecimento;MAPA;4.Submetido;Ministério;EXE-Sipec
+82;Empresa Brasileira de Pesquisa Agropecuária;EMBRAPA;4.Submetido;Estatal;EXE-Dest
+83;Centrais de Abastecimento de Minas Gerais S.A.;CEASAMINAS;4.Submetido;Estatal;EXE-Dest
+84;Companhia de Armazéns e Silos do Estado de Minas Gerais;CASEMG;4.Submetido;Estatal;EXE-Dest
+85;Companhia Nacional de Abastecimento;CONAB;4.Submetido;Estatal;EXE-Dest
+86;CEAGESP - Companhia de Entrepostos e Armazéns Gerais de São Paulo;CEAGESP;4.Submetido;Estatal;EXE-Dest
+87;Fundo de Defesa da Economia Cafeeira;Funcafé;0.Excluído;Fundo;Fundo
+88;Ministério da Ciência, Tecnologia, Inovações e Comunicações;MCTIC;4.Submetido;Ministério;EXE-Sipec
+89;Conselho Nacional de Desenvolvimento Científico e Tecnológico;CNPQ;4.Submetido;Autarquia;EXE-Sipec
+90;Financiadora de Estudos e Projetos;FINEP;4.Submetido;Estatal;EXE-Dest
+91;Comissão Nacional de Energia Nuclear;CNEN;4.Submetido;Autarquia;EXE-Sipec
+92;Agência Espacial Brasileira;AEB;4.Submetido;Autarquia;EXE-Sipec
+93;Indústrias Nucleares do Brasil S.A.;INB;4.Submetido;Estatal;EXE-Dest
+94;Nuclebrás Equipamentos Pesados S.A.;NUCLEP;4.Submetido;Estatal;EXE-Dest
+95;Centro Nacional de Tecnologia Eletrônica Avançada - S.A.;CEITEC;4.Submetido;Estatal;EXE-Dest
+96;Agência Nacional de Telecomunicações;ANATEL;4.Submetido;Autarquia;EXE-Sipec
+97;Telebras Copa S.A.;Telebras Copa;0.Excluído;Estatal;EXE-Dest
+98;Correios Participações S.A.;CORREIOSPAR;0.Excluído;Estatal;EXE-Dest
+99;Empresa Brasileira de Correios e Telégrafos;ECT;4.Submetido;Estatal;EXE-Dest
+100;Telecomunicações Brasileiras S.A.;Telebras;4.Submetido;Estatal;EXE-Dest
+101;Fundo Nacional de Desenvolvimento Científico e Tecnológico;FNDCT;0.Excluído;Fundo;Fundo
+102;Fundo de Universalização dos Serviços de Telecomunicações;FUST;0.Excluído;Fundo;Fundo
+103;Fundo para o Desenvolvimento Tecnológico das Telecomunicações;FUNTTEL;0.Excluído;Fundo;Fundo
+104;Ministério da Fazenda;MF;4.Submetido;Ministério;EXE-Sipec
+105;Secretaria da Receita Federal do Brasil;RFB;4.Submetido;Órgão executivo (Adm. Direta);EXE-Sipec
+106;Procuradoria-Geral da Fazenda Nacional;PGFN;4.Submetido;Órgão executivo (Adm. Direta);EXE-Sipec
+107;Banco Central do Brasil;BCB;4.Submetido;Autarquia;EXE-Sipec
+108;Banco da Amazônia S.A.;BASA;4.Submetido;Banco;EXE-Dest
+109;Comissão de Valores Mobiliários;CVM;4.Submetido;Autarquia;EXE-Sipec
+110;Superintendência Nacional de Previdência Complementar;PREVIC;4.Submetido;Autarquia;EXE-Sipec
+111;Serviço Federal de Processamento de Dados;SERPRO;4.Submetido;Estatal;EXE-Dest
+112;Superintendência de Seguros Privados;SUSEP;4.Submetido;Autarquia;EXE-Sipec
+113;Banco do Nordeste do Brasil S.A.;BNB;4.Submetido;Banco;EXE-Dest
+114;Casa da Moeda do Brasil;CMB;4.Submetido;Estatal;EXE-Dest
+115;IRB Brasil Resseguros S.A.;IRB;0.Excluído;Estatal;EXE-Dest
+116;Caixa Econômica Federal;CAIXA;4.Submetido;Banco;EXE-Dest
+117;BB Administradora de Cartões de Crédito S.A.;BB CARTÕES;0.Excluído;Banco;EXE-Dest
+118;BB Corretora de Seguros e Administradora de Bens S.A.;BB CORRETORA;0.Excluído;Banco;EXE-Dest
+119;COBRA Tecnologia S.A.;COBRA;4.Submetido;Estatal;EXE-Dest
+120;Banco do Brasil S.A.;BB;4.Submetido;Banco;EXE-Dest
+121;BB Banco de Investimento S.A.;BB INVESTIMENTOS;0.Excluído;Banco;EXE-Dest
+122;BB Gestão de Recursos - Distribuidora de Títulos e Valores Mobiliários S.A.;BB DTVM;4.Submetido;Banco;EXE-Dest
+123;BB - Financeira S.A. - Crédito, Financiamento e Investimento;BB - Financeira;0.Excluído;Banco;EXE-Dest
+124;BB Leasing S.A. - Arrendamento Mercantil;BB LAM;0.Excluído;Banco;EXE-Dest
+125;BB Leasing Company Limited;BB LEASING;0.Excluído;Banco;EXE-Dest
+126;BBTUR - Viagens e Turismo Ltda.;BB TURISMO;4.Submetido;Banco;EXE-Dest
+127;Brasilian American Merchant Bank;BAMB;0.Excluído;Banco;EXE-Dest
+128;Banco do Estado do Piauí S.A.;BEP;0.Excluído;Banco;EXE-Dest
+129;Banco do Estado de Santa Catarina S.A.;BESC;0.Excluído;Banco;EXE-Dest
+130;BESC Distribuidora de Títulos e Valores Mobiliários S.A.;BESCVAL;0.Excluído;Banco;EXE-Dest
+131;BESC Financeira S.A. - Crédito, Financiamento e Investimentos;BESCREDI;0.Excluído;Banco;EXE-Dest
+132;BESC S.A. Arrendamento Mercantil;BESC LEASING;0.Excluído;Banco;EXE-Dest
+133;BESC S.A. - Crédito Imobiliário;BESCRI;0.Excluído;Banco;EXE-Dest
+134;Empresa Gestora de Ativos;EMGEA;4.Submetido;Estatal;EXE-Dest
+135;ATIVOS S.A. Securitizadora de Créditos Financeiros;ATIVOS S.A.;4.Submetido;Banco;EXE-Dest
+136;BB Securities Limited;BB SECURITIES;0.Excluído;Banco;EXE-Dest
+137;BB Banco Popular do Brasil S.A.;BPB;0.Excluído;Banco;EXE-Dest
+138;BB Administradora de Consórcios S.A.;BB CONSÓRCIOS;4.Submetido;Banco;EXE-Dest
+139;Banco do Brasil Ag Viena;BB AG;0.Excluído;Banco;EXE-Dest
+140;Banco Nossa Caixa S.A.;BNC;0.Excluído;Banco;EXE-Dest
+141;BB ELO CARTÕES Participações S.A.;BB ELO CARTÕES;0.Excluído;Banco;EXE-Dest
+142;Nossa Caixa Capitalização S.A.;BNC CAPITALIZAÇÃO;0.Excluído;Banco;EXE-Dest
+143;Caixa Participações S.A.;CAIXAPAR;0.Excluído;Banco;EXE-Dest
+144;BB Seguros Participações S.A.;BB SEGUROS;0.Excluído;Banco;EXE-Dest
+145;BB Aliança Participações S.A.;BB ALIANÇA;0.Excluído;Banco;EXE-Dest
+146;BB COR Participações S.A.;BB COR;0.Excluído;Banco;EXE-Dest
+147;BB Seguridade Participações S.A.;BB SEGURIDADE;4.Submetido;Banco;EXE-Dest
+148;CAIXA SEGURIDADE PARTICIPACOES S/A;CAIXA SE;4.Submetido;Banco;EXE-Dest
+149;Ativos S.A Gestão de Cobrança e Recuperação de Crédito;Ativos Ges;0.Excluído;Banco;EXE-Dest
+150;Empresa de Tecnologia e Informações da Previdência Social;DATAPREV;4.Submetido;Estatal;EXE-Dest
+151;Fundo de Compensação de Variações Salariais;FCVS;0.Excluído;Fundo;Fundo
+152;Fundo Especial de Treinamento e Desenvolvimento;FUNTREDE;0.Excluído;Fundo;Fundo
+153;Ministério da Educação;MEC;4.Submetido;Ministério;EXE-Sipec
+154;Instituto Nacional de Educação de Surdos;INES;4.Submetido;Instituição de ensino;EXE-Sipec
+155;Instituto Benjamin Constant;IBC;4.Submetido;Instituição de ensino;EXE-Sipec
+156;Colégio Pedro II;CPII;4.Submetido;Instituição de ensino;EXE-Sipec
+157;Fundação Universidade Federal do Vale do São Francisco;Univasf;4.Submetido;Instituição de ensino;EXE-Sipec
+158;Universidade Federal de Alagoas;UFAL;4.Submetido;Instituição de ensino;EXE-Sipec
+159;Universidade Federal da Bahia;UFBA;4.Submetido;Instituição de ensino;EXE-Sipec
+160;Universidade Federal do Ceará;UFC;4.Submetido;Instituição de ensino;EXE-Sipec
+161;Universidade Federal do Espírito Santo;UFES;4.Submetido;Instituição de ensino;EXE-Sipec
+162;Universidade Federal de Goiás;UFG;4.Submetido;Instituição de ensino;EXE-Sipec
+163;Universidade Federal Fluminense;UFF;4.Submetido;Instituição de ensino;EXE-Sipec
+164;Universidade Federal de Juiz de Fora;UFJF;4.Submetido;Instituição de ensino;EXE-Sipec
+165;Universidade Federal de Minas Gerais;UFMG;4.Submetido;Instituição de ensino;EXE-Sipec
+166;Universidade Federal do Pará;UFPA;4.Submetido;Instituição de ensino;EXE-Sipec
+167;Universidade Federal da Paraíba;UFPB;4.Submetido;Instituição de ensino;EXE-Sipec
+168;Universidade Federal do Paraná;UFPR;4.Submetido;Instituição de ensino;EXE-Sipec
+169;Universidade Federal de Pernambuco;UFPE;4.Submetido;Instituição de ensino;EXE-Sipec
+170;Universidade Federal do Rio Grande do Norte;UFRN;4.Submetido;Instituição de ensino;EXE-Sipec
+171;Universidade Federal do Rio Grande do Sul;UFRGS;4.Submetido;Instituição de ensino;EXE-Sipec
+172;Universidade Federal do Rio de Janeiro;UFRJ;4.Submetido;Instituição de ensino;EXE-Sipec
+173;Universidade Federal de Santa Catarina;UFSC;4.Submetido;Instituição de ensino;EXE-Sipec
+174;Universidade Federal de Santa Maria;UFSM;4.Submetido;Instituição de ensino;EXE-Sipec
+175;Universidade Federal Rural de Pernambuco;UFRPE;4.Submetido;Instituição de ensino;EXE-Sipec
+176;Universidade Federal Rural do Rio de Janeiro;UFRRJ;4.Submetido;Instituição de ensino;EXE-Sipec
+177;Universidade Federal de Roraima;UFRR;4.Submetido;Instituição de ensino;EXE-Sipec
+178;Fundação Universidade Federal do Tocantins;UFT;4.Submetido;Instituição de ensino;EXE-Sipec
+179;Universidade Federal de Campina Grande;UFCG;4.Submetido;Instituição de ensino;EXE-Sipec
+180;Universidade Federal Rural da Amazônia;UFRA;4.Submetido;Instituição de ensino;EXE-Sipec
+181;Universidade Federal do Triângulo Mineiro;UFTM;4.Submetido;Instituição de ensino;EXE-Sipec
+182;Universidade Federal dos Vales do Jequitinhonha e Mucuri;UFVJM;4.Submetido;Instituição de ensino;EXE-Sipec
+183;Centro Federal de Educação Tecnológica Celso Suckow da Fonseca;CEFET-RJ;4.Submetido;Instituição de ensino;EXE-Sipec
+184;Centro Federal de Educação Tecnológica de Minas Gerais;CEFET-MG;4.Submetido;Instituição de ensino;EXE-Sipec
+185;Universidade Tecnológica Federal do Paraná;UTFPR;4.Submetido;Instituição de ensino;EXE-Sipec
+186;Universidade Federal de Alfenas;UNIFAL-MG;4.Submetido;Instituição de ensino;EXE-Sipec
+187;Universidade Federal de Itajubá;UNIFEI;4.Submetido;Instituição de ensino;EXE-Sipec
+188;Universidade Federal de São Paulo;UNIFESP;4.Submetido;Instituição de ensino;EXE-Sipec
+189;Universidade Federal de Lavras;UFLA;4.Submetido;Instituição de ensino;EXE-Sipec
+190;Universidade Federal Rural do Semi-Árido;UFERSA;4.Submetido;Instituição de ensino;EXE-Sipec
+191;Fundação Universidade Federal do Pampa;UNIPAMPA;4.Submetido;Instituição de ensino;EXE-Sipec
+192;Universidade Federal da Integração Latino Americana;UNILA;4.Submetido;Instituição de ensino;EXE-Sipec
+193;Fundação Universidade Federal de Rondônia;UNIR;4.Submetido;Instituição de ensino;EXE-Sipec
+194;Universidade Federal do Estado do Rio de Janeiro;UniRIO;4.Submetido;Instituição de ensino;EXE-Sipec
+195;Fundação Universidade do Amazonas;UFAM;4.Submetido;Instituição de ensino;EXE-Sipec
+196;Fundação Universidade de Brasília;FUB;4.Submetido;Instituição de ensino;EXE-Sipec
+197;Fundação Universidade Federal do Maranhão;UFMA;4.Submetido;Instituição de ensino;EXE-Sipec
+198;Fundação Universidade Federal do Rio Grande;FURG;4.Submetido;Instituição de ensino;EXE-Sipec
+199;Universidade Federal de Uberlândia;UFU;4.Submetido;Instituição de ensino;EXE-Sipec
+200;Fundação Universidade Federal do Acre;UFAC;4.Submetido;Instituição de ensino;EXE-Sipec
+201;Fundação Universidade Federal de Mato Grosso;UFMT;4.Submetido;Instituição de ensino;EXE-Sipec
+202;Fundação Universidade Federal de Ouro Preto;UFOP;4.Submetido;Instituição de ensino;EXE-Sipec
+203;Fundação Universidade Federal de Pelotas;UFPel;4.Submetido;Instituição de ensino;EXE-Sipec
+204;Fundação Universidade Federal do Piauí;UFPI;4.Submetido;Instituição de ensino;EXE-Sipec
+205;Fundação Universidade Federal de São Carlos;UFSCar;4.Submetido;Instituição de ensino;EXE-Sipec
+206;Fundação Universidade Federal de Sergipe;UFS;4.Submetido;Instituição de ensino;EXE-Sipec
+207;Fundação Universidade Federal de Viçosa;UFV;4.Submetido;Instituição de ensino;EXE-Sipec
+208;Fundação Universidade Federal de Mato Grosso do Sul;UFMS;4.Submetido;Instituição de ensino;EXE-Sipec
+209;Fundação Universidade Federal de Ciências da Saúde de Porto Alegre;UFCSPA;4.Submetido;Instituição de ensino;EXE-Sipec
+210;Fundação Universidade Federal de São João del-Rei;UFSJ;4.Submetido;Instituição de ensino;EXE-Sipec
+211;Fundação Universidade Federal do Amapá;UNIFAP;4.Submetido;Instituição de ensino;EXE-Sipec
+212;Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira;INEP;4.Submetido;Autarquia;EXE-Sipec
+213;Fundação Coordenação de Aperfeiçoamento de Pessoal de Nível Superior;CAPES;4.Submetido;Fundação;EXE-Sipec
+214;Fundação Joaquim Nabuco;Fundaj;4.Submetido;Fundação;EXE-Sipec
+215;Hospital de Clínicas de Porto Alegre;HCPA;4.Submetido;Unidade de Saúde;EXE-Dest
+216;Fundo Nacional de Desenvolvimento da Educação;FNDE;4.Submetido;Autarquia;EXE-Sipec
+217;Fundação Universidade Federal da Grande Dourados;UFGD;4.Submetido;Instituição de ensino;EXE-Sipec
+218;Universidade Federal do Recôncavo da Bahia;UFRB;4.Submetido;Instituição de ensino;EXE-Sipec
+219;Fundação Universidade Federal do ABC;UFABC;4.Submetido;Instituição de ensino;EXE-Sipec
+220;Hospital Universitário Prof. Alberto Antunes;HUPAA-UFAL;4.Submetido;Unidade de Saúde;EXE-Sipec
+221;Complexo Hospitalar e de Saúde da Universidade Federal da Bahia;HUPES-UFBA;4.Submetido;Unidade de Saúde;EXE-Sipec
+222;Hospital Universitário Walter Cantídio;HUWC-UFC;4.Submetido;Unidade de Saúde;EXE-Sipec
+223;Maternidade-Escola Assis Chateaubriand;MEAC-UFC;4.Submetido;Unidade de Saúde;EXE-Sipec
+224;Hospital Universitário Cassiano Antônio Morais;HUCAM-UFES;4.Submetido;Unidade de Saúde;EXE-Sipec
+225;Hospital das Clínicas da Universidade Federal de Goiás;HC-UFG;4.Submetido;Unidade de Saúde;EXE-Sipec
+226;Hospital Universitário Antonio Pedro;HUAP-UFF;4.Submetido;Unidade de Saúde;EXE-Sipec
+227;Hospital Universitário da Universidade Federal de Juiz de Fora;HU-UFJF;4.Submetido;Unidade de Saúde;EXE-Sipec
+228;Hospital das Clínicas da Universidade Federal de Minas Gerais;HC-UFMG;4.Submetido;Unidade de Saúde;EXE-Sipec
+229;Hospital Universitário João de Barros Barreto;HUJBB;4.Submetido;Unidade de Saúde;EXE-Sipec
+230;Hospital Universitário Bettina Ferro Souza;HUBFS-UFPA;4.Submetido;Unidade de Saúde;EXE-Sipec
+231;Hospital Universitário Lauro Wanderley;HULW-UFPB;4.Submetido;Unidade de Saúde;EXE-Sipec
+232;Hospital de Clínicas da Universidade Federal do Paraná;HC-UFPR;4.Submetido;Unidade de Saúde;EXE-Sipec
+233;Hospital das Clínicas da Universidade Federal de Pernambuco;HC-UFPE;4.Submetido;Unidade de Saúde;EXE-Sipec
+234;Hospital Universitário Onofre Lopes;HUOL;4.Submetido;Unidade de Saúde;EXE-Sipec
+235;Complexo Hospitalar e de Saúde da Universidade Federal do Rio de Janeiro;CHS-UFRJ;4.Submetido;Unidade de Saúde;EXE-Sipec
+236;Hospital Universitário da Universidade Federal da Grande Dourados;HU da UFGD;4.Submetido;Unidade de Saúde;EXE-Sipec
+237;Hospital Universitário Prof. Polydoro Ernani de São Thiago;HU-UFSC;4.Submetido;Unidade de Saúde;EXE-Sipec
+238;Hospital Universitário de Santa Maria;HUSM-UFSM;4.Submetido;Unidade de Saúde;EXE-Sipec
+239;Hospital Universitário Alcides Carneiro;HUAC-UFCG;4.Submetido;Unidade de Saúde;EXE-Sipec
+240;Hospital de Clínicas da Universidade Federal do Triângulo Mineiro;HC-UFTM;4.Submetido;Unidade de Saúde;EXE-Sipec
+241;Hospital Universitário Gaffree e Guinle;HUGGUnirio;4.Submetido;Unidade de Saúde;EXE-Sipec
+242;Hospital Universitário Getúlio Vargas;HUGV-UFAM;4.Submetido;Unidade de Saúde;EXE-Sipec
+243;Hospital Universitário de Brasília;HUB-UnB;4.Submetido;Unidade de Saúde;EXE-Sipec
+244;Hospital Universitário da Fundação Universidade do Maranhão;HU-UFMA;4.Submetido;Unidade de Saúde;EXE-Sipec
+245;Hospital Universitário Dr. Miguel Riet Corrêa Jr.;HU-FURG;4.Submetido;Unidade de Saúde;EXE-Sipec
+246;Hospital de Clínicas da Universidade Federal de Uberlândia;HC-UFU;4.Submetido;Unidade de Saúde;EXE-Sipec
+247;Hospital Júlio Muller;HUJM-UFMT;4.Submetido;Unidade de Saúde;EXE-Sipec
+248;Hospital das Clínicas da Fundação Universidade Federal de Pelotas;HE UFPel;4.Submetido;Unidade de Saúde;EXE-Sipec
+249;Hospital Universitário da Fundação Universidade Federal do Piauí;HU-UFPI;4.Submetido;Unidade de Saúde;EXE-Sipec
+250;Hospital Universitário da Fundação Universidade Federal de Sergipe;HU-UFS;4.Submetido;Unidade de Saúde;EXE-Sipec
+251;Hospital Universitário Maria Pedrossian;HUMAP;4.Submetido;Unidade de Saúde;EXE-Sipec
+252;Instituto Federal de Alagoas;IFAL;4.Submetido;Instituição de ensino;EXE-Sipec
+253;Instituto Federal do Amazonas;IFAM;4.Submetido;Instituição de ensino;EXE-Sipec
+254;Instituto Federal Baiano;IF Baiano;4.Submetido;Instituição de ensino;EXE-Sipec
+255;Instituto Federal do Ceará;IFCE;4.Submetido;Instituição de ensino;EXE-Sipec
+256;Instituto Federal do Espírito Santo;IFES;4.Submetido;Instituição de ensino;EXE-Sipec
+257;Instituto Federal Goiano;IF Goiano;4.Submetido;Instituição de ensino;EXE-Sipec
+258;Instituto Federal do Maranhão;IFMA;4.Submetido;Instituição de ensino;EXE-Sipec
+259;Instituto Federal de Minas Gerais;IFMG;4.Submetido;Instituição de ensino;EXE-Sipec
+260;Instituto Federal do Norte de Minas Gerais;IFNMG;4.Submetido;Instituição de ensino;EXE-Sipec
+261;Instituto Federal do Sudeste de Minas Gerais;IF Sudeste;4.Submetido;Instituição de ensino;EXE-Sipec
+262;Instituto Federal do Sul de Minas Gerais;IFSULDEMINAS;4.Submetido;Instituição de ensino;EXE-Sipec
+263;Instituto Federal do Triângulo Mineiro;IFTM;4.Submetido;Instituição de ensino;EXE-Sipec
+264;Instituto Federal do Mato Grosso;IFMT;4.Submetido;Instituição de ensino;EXE-Sipec
+265;Instituto Federal do Mato Grosso do Sul;IFMS;4.Submetido;Instituição de ensino;EXE-Sipec
+266;Instituto Federal do Pará;IFPA;4.Submetido;Instituição de ensino;EXE-Sipec
+267;Instituto Federal da Paraíba;IFPB;4.Submetido;Instituição de ensino;EXE-Sipec
+268;Instituto Federal de Pernambuco;IFPE;4.Submetido;Instituição de ensino;EXE-Sipec
+269;Instituto Federal do Rio Grande do Sul;IFRS;4.Submetido;Instituição de ensino;EXE-Sipec
+270;Instituto Federal Farroupilha;IF Farroupilha;4.Submetido;Instituição de ensino;EXE-Sipec
+271;Instituto Federal de Rondônia;IFRO;4.Submetido;Instituição de ensino;EXE-Sipec
+272;Instituto Federal Catarinense;IFC;4.Submetido;Instituição de ensino;EXE-Sipec
+273;Instituto Federal de Sergipe;IFS;4.Submetido;Instituição de ensino;EXE-Sipec
+274;Instituto Federal do Tocantins;IFTO;4.Submetido;Instituição de ensino;EXE-Sipec
+275;Instituto Federal do Acre;IFAC;4.Submetido;Instituição de ensino;EXE-Sipec
+276;Instituto Federal do Amapá;IFAP;4.Submetido;Instituição de ensino;EXE-Sipec
+277;Instituto Federal da Bahia;IFBA;4.Submetido;Instituição de ensino;EXE-Sipec
+278;Instituto Federal de Brasília;IFB;4.Submetido;Instituição de ensino;EXE-Sipec
+279;Instituto Federal de Goiás;IFG;4.Submetido;Instituição de ensino;EXE-Sipec
+280;Instituto Federal do Sertão Pernambucano;IF Sertão-PE;4.Submetido;Instituição de ensino;EXE-Sipec
+281;Instituto Federal do Piauí;IFPI;4.Submetido;Instituição de ensino;EXE-Sipec
+282;Instituto Federal do Paraná;IFPR;4.Submetido;Instituição de ensino;EXE-Sipec
+283;Instituto Federal do Rio de Janeiro;IFRJ;4.Submetido;Instituição de ensino;EXE-Sipec
+284;Instituto Federal Fluminense;IFF;4.Submetido;Instituição de ensino;EXE-Sipec
+285;Instituto Federal do Rio Grande do Norte;IFRN;4.Submetido;Instituição de ensino;EXE-Sipec
+286;Instituto Federal Sul-rio-grandense;IFSul;4.Submetido;Instituição de ensino;EXE-Sipec
+287;Instituto Federal de Roraima;IFRR;4.Submetido;Instituição de ensino;EXE-Sipec
+288;Instituto Federal de Santa Catarina;IFSC;4.Submetido;Instituição de ensino;EXE-Sipec
+289;Instituto Federal de São Paulo;IFSP;4.Submetido;Instituição de ensino;EXE-Sipec
+290;Universidade Federal da Fronteira Sul;UFFS;4.Submetido;Instituição de ensino;EXE-Sipec
+291;Universidade Federal do Oeste do Pará;UFOPA;4.Submetido;Instituição de ensino;EXE-Sipec
+292;Universidade da Integração Internacional da Lusofonia Afro-Brasileira;UNILAB;4.Submetido;Instituição de ensino;EXE-Sipec
+293;Empresa Brasileira de Serviços Hospitalares;EBSERH;4.Submetido;Unidade de Saúde;EXE-Dest
+294;Maternidade Victor Ferreira do Amaral;MVFA;4.Submetido;Unidade de Saúde;EXE-Sipec
+295;Hospital Universitário da UNIFESP;HU-UNIFESP;4.Submetido;Unidade de Saúde;EXE-Sipec
+296;Universidade Federal do Oeste da Bahia;UFOB;4.Submetido;Instituição de ensino;EXE-Sipec
+297;Universidade Federal do Sul e Sudeste do Pará;UNIFESSPA;4.Submetido;Instituição de ensino;EXE-Sipec
+298;Universidade Federal do Cariri;UFCA;4.Submetido;Instituição de ensino;EXE-Sipec
+299;Universidade Federal do Sul da Bahia;UFSB;4.Submetido;Instituição de ensino;EXE-Sipec
+300;Hospital Universitário da Universidade Federal do Vale do São Francisco;HU-UNIVASF;4.Submetido;Unidade de Saúde;EXE-Sipec
+301;Ministério da Indústria, Comércio Exterior e Serviços;MDIC;4.Submetido;Ministério;EXE-Sipec
+302;Instituto Nacional de Metrologia, Qualidade e Tecnologia;INMETRO;4.Submetido;Autarquia;EXE-Sipec
+303;Instituto Nacional da Propriedade Industrial;INPI;4.Submetido;Autarquia;EXE-Sipec
+304;Superintendência da Zona Franca de Manaus;SUFRAMA;4.Submetido;Autarquia;EXE-Sipec
+305;Defensoria Pública da União;DPU;4.Submetido;Funções Essenciais à Justiça;FEJ
+306;Ministério da Justiça e Segurança Pública;MJSP;4.Submetido;Ministério;EXE-Sipec
+307;Arquivo Nacional;AN;4.Submetido;Órgão executivo (Adm. Direta);EXE-Sipec
+308;Departamento de Polícia Rodoviária Federal;DPRF;4.Submetido;Órgão executivo (Adm. Direta);EXE-Sipec
+309;Departamento de Polícia Federal;DPF;4.Submetido;Órgão executivo (Adm. Direta);EXE-Sipec
+310;Fundação Nacional do Índio;FUNAI;4.Submetido;Fundação;EXE-Sipec
+311;Conselho Administrativo de Defesa Econômica;CADE;4.Submetido;Autarquia;EXE-Sipec
+312;Fundo de Defesa de Direitos Difusos;FDD;0.Excluído;Fundo;Fundo
+313;Fundo Penitenciário Nacional;FUNPEN;4.Submetido;Fundo;Fundo
+314;Fundo Nacional de Segurança Pública;FNSP;0.Excluído;Fundo;Fundo
+315;Fundo Nacional Antidrogas;FUNAD;4.Submetido;Fundo;Fundo
+316;Ministério de Minas e Energia;MME;4.Submetido;Ministério;EXE-Sipec
+317;Centro de Pesquisas de Energia Elétrica;CEPEL;4.Submetido;Paraestatal;Terceiro Setor
+318;Companhia de Pesquisa de Recursos Minerais;CPRM;4.Submetido;Estatal;EXE-Dest
+319;Itaipu Binacional;ITAIPU;0.Excluído;Estatal;EXE-Dest
+320;Eletrobras Termonuclear S.A.;ELETRONUCLEAR;4.Submetido;Estatal;EXE-Dest
+321;Centrais Elétricas Brasileiras S.A.;ELETROBRAS;4.Submetido;Estatal;EXE-Dest
+322;Centrais Elétricas do Norte do Brasil S.A.;ELETRONORTE;4.Submetido;Estatal;EXE-Dest
+323;ELETROSUL Centrais Elétricas S.A.;ELETROSUL;4.Submetido;Estatal;EXE-Dest
+324;Companhia Hidro Elétrica do São Francisco;CHESF;4.Submetido;Estatal;EXE-Dest
+325;FURNAS - Centrais Elétricas S.A.;FURNAS;4.Submetido;Estatal;EXE-Dest
+326;Petróleo Brasileiro S.A.;PETROBRAS;4.Submetido;Estatal;EXE-Dest
+327;Braspetro Oil Services Company;BRASOIL;0.Excluído;Estatal;EXE-Dest
+328;Indústria Carboquímica Catarinense S.A.;ICC (Em Liquidação);0.Excluído;Estatal;EXE-Dest
+329;Petrobras Distribuidora S.A.;BR;4.Submetido;Estatal;EXE-Dest
+330;Petrobras Gás S.A.;GASPETRO;4.Submetido;Estatal;EXE-Dest
+331;Petrobras Química S.A.;PETROQUISA;0.Excluído;Estatal;EXE-Dest
+332;Petrobras America Inc.;PAI;0.Excluído;Estatal;EXE-Dest
+333;Agência Nacional de Mineração;ANM;4.Submetido;Autarquia;EXE-Sipec
+334;Eletrobras Participações S.A.;ELETROPAR;4.Submetido;Estatal;EXE-Dest
+335;Agência Nacional do Petróleo, Gás Natural e Biocombustíveis;ANP;4.Submetido;Autarquia;EXE-Sipec
+336;Agência Nacional de Energia Elétrica;ANEEL;4.Submetido;Autarquia;EXE-Sipec
+337;Companhia de Eletricidade do Acre;ELETROACRE;4.Submetido;Estatal;EXE-Dest
+338;Companhia Energética de Alagoas;CEAL;4.Submetido;Estatal;EXE-Dest
+339;Companhia Energética do Piauí;CEPISA;0.Excluído;Estatal;EXE-Dest
+340;Centrais Elétricas de Rondônia S.A.;CERON;4.Submetido;Estatal;EXE-Dest
+341;Transportadora Brasileira Gasoduto Bolívia-Brasil S.A.;TBG;4.Submetido;Estatal;EXE-Dest
+342;Boa Vista Energia S.A.;BVENERGIA;0.Excluído;Estatal;EXE-Dest
+343;Amazonas Distribuidora de Energia S.A.;AmE;4.Submetido;Estatal;EXE-Dest
+344;Petrobras Transporte S.A.;TRANSPETRO;4.Submetido;Estatal;EXE-Dest
+345;Fronape International Company;FIC;0.Excluído;Estatal;EXE-Dest
+346;Companhia de Geração Térmica de Energia Elétrica;CGTEE;4.Submetido;Estatal;EXE-Dest
+347;Petrobras International Finance Company;PIFCo;0.Excluído;Estatal;EXE-Dest
+348;Downstream Participações Ltda.;DOWNSTREAM;0.Excluído;Estatal;EXE-Dest
+349;Petrobras Logística de Exploração e Produção S.A.;PB-LOG;4.Submetido;Estatal;EXE-Dest
+350;Petrobras Netherlands B.V.;PNBV;0.Excluído;Estatal;EXE-Dest
+351;Petrobras Europe Limited;PEL;0.Excluído;Estatal;EXE-Dest
+352;Petrobras Finance Limited;PFL;0.Excluído;Estatal;EXE-Dest
+353;5283 Participações Ltda.;5283 PAR;4.Submetido;Estatal;EXE-Dest
+354;Braspetro Oil Company;BOC;0.Excluído;Estatal;EXE-Dest
+355;Petrobras International Braspetro B.V.;PIB BV;4.Submetido;Estatal;EXE-Dest
+356;Petrobras Comercializadora de Energia Ltda.;PCEL;4.Submetido;Estatal;EXE-Dest
+357;Petrobras Negócios Eletrônicos S.A.;e-PETRO;4.Submetido;Estatal;EXE-Dest
+358;Petroleo Brasileiro Nigeria Limited;PBN;0.Excluído;Estatal;EXE-Dest
+359;Brasoil Oil Services Company Nigeria Limited;BRASOIL NIGERIA;0.Excluído;Estatal;EXE-Dest
+360;Petrobras International Braspetro B.V. - Sucursal Angola;PIB ANG;0.Excluído;Estatal;EXE-Dest
+361;Petrobras International Braspetro B.V. - Sucursal Colombia;PIB COL;0.Excluído;Estatal;EXE-Dest
+362;Petrobras Colombia Limited;PEC;0.Excluído;Estatal;EXE-Dest
+363;Petrobras Bolivia Inversiones y Servicios S.A.;PEBIS;0.Excluído;Estatal;EXE-Dest
+364;Petrobras Participaciones, S.L.;PPSL;0.Excluído;Estatal;EXE-Dest
+365;Petrolera Entre Lomas S.A.;PELSA;0.Excluído;Estatal;EXE-Dest
+366;Bear Insurance Company Limited;BEAR;0.Excluído;Estatal;EXE-Dest
+367;Transportadora Associada de Gás S.A.;TAG;0.Excluído;Estatal;EXE-Dest
+368;Empresa de Pesquisa Energética;EPE;4.Submetido;Estatal;EXE-Dest
+369;Liquigás Distribuidora S.A.;LIQUIGÁS;4.Submetido;Estatal;EXE-Dest
+370;SFE - Sociedade Fluminense de Energia Ltda.;SFE;0.Excluído;Estatal;EXE-Dest
+371;Termorio S.A.;TERMORIO;0.Excluído;Estatal;EXE-Dest
+372;Fafen Energia S.A.;FAFEN ENERGIA;0.Excluído;Estatal;EXE-Dest
+373;Termoceará Ltda.;TERMOCEARÁ;0.Excluído;Estatal;EXE-Dest
+374;Baixada Santista Energia Ltda.;BSE;0.Excluído;Estatal;EXE-Dest
+375;Termomacaé Ltda.;TERMOMACAÉ;4.Submetido;Estatal;EXE-Dest
+376;Petrobras México, S. DE R.L. DE C.V.;PM;0.Excluído;Estatal;EXE-Dest
+377;Petrobras Tanzânia LTD.;PETAN;0.Excluído;Estatal;EXE-Dest
+378;Petrobras Middle East B.V.;PEMID;0.Excluído;Estatal;EXE-Dest
+379;Petrobras Singapore Private Limited;PSPL;0.Excluído;Estatal;EXE-Dest
+380;Refinaria Abreu e Lima S.A.;RNEST;0.Excluído;Estatal;EXE-Dest
+381;Usina Termelétrica de Juiz de Fora S.A.;UTEJF;0.Excluído;Estatal;EXE-Dest
+382;Termobahia S.A.;TERMOBAHIA;4.Submetido;Estatal;EXE-Dest
+383;Stratura Asfaltos S.A.;STRATURA ASFALTOS;4.Submetido;Estatal;EXE-Dest
+384;Petrobras Biocombustível S.A.;PBIO;0.Excluído;Estatal;EXE-Dest
+385;Comperj Petroquímicos Básicos S.A.;CPRJBAS;0.Excluído;Estatal;EXE-Dest
+386;Comperj Estirenicos S.A.;CPRJEST;0.Excluído;Estatal;EXE-Dest
+387;Comperj Meg S.A.;CPRJMEG;0.Excluído;Estatal;EXE-Dest
+388;Comperj Participações S.A.;CPRJPAR;0.Excluído;Estatal;EXE-Dest
+389;Comperj Pet S.A.;CPRJPET;0.Excluído;Estatal;EXE-Dest
+390;Comperj Poliolefinas S.A.;CPRJPOL;0.Excluído;Estatal;EXE-Dest
+391;Cordoba Financial Services GmbH;CFS;0.Excluído;Estatal;EXE-Dest
+392;Companhia Integrada Têxtil de Pernambuco;CITEPE;0.Excluído;Estatal;EXE-Dest
+393;Companhia Petroquímica de Pernambuco;PETROQUÍMICASUAPE;0.Excluído;Estatal;EXE-Dest
+394;Breitener Energética S.A.;BREITENER;4.Submetido;Estatal;EXE-Dest
+395;Eólica Mangue Seco 2 - Geradora e Comercializadora de Energia Elétrica S.A.;MANGUE SECO 2;4.Submetido;Estatal;EXE-Dest
+396;Porto Velho Transmissora de Energia S.A.;PVTE;0.Excluído;Estatal;EXE-Dest
+397;Empresa de Transmissão de Energia do Rio Grande do Sul S.A.;RS ENERGIA;0.Excluído;Estatal;EXE-Dest
+398;Innova S.A.;INNOVA;0.Excluído;Estatal;EXE-Dest
+399;Gás Brasiliano Distribuidora S.A.;GBD;4.Submetido;Estatal;EXE-Dest
+400;Transportadora Gasene S.A.;GASENE;0.Excluído;Estatal;EXE-Dest
+401;Estação Transmissora de Energia S.A.;ETE;0.Excluído;Estatal;EXE-Dest
+402;Rio Branco Transmissora de Energia S.A.;RBTE;0.Excluído;Estatal;EXE-Dest
+403;Companhia Locadora de Equipamentos Petrolíferos;CLEP;0.Excluído;Estatal;EXE-Dest
+404;Termomacaé Comercializadora de Energia Ltda.;TERMOMACAÉ COMERCIALIZADORA;4.Submetido;Estatal;EXE-Dest
+405;Energética Camaçari Muricy I S.A.;ECM 1;0.Excluído;Estatal;EXE-Dest
+406;Arembepe Energia S.A.;AREMBEPE;0.Excluído;Estatal;EXE-Dest
+407;Breitener Jaraqui S.A.;BREITENER JARAQUI;4.Submetido;Estatal;EXE-Dest
+408;Breitener Tambaqui S.A.;BREITENER TAMBAQUI;4.Submetido;Estatal;EXE-Dest
+409;Uirapuru Transmissora de Energia S.A.;UIRAPURU;4.Submetido;Estatal;EXE-Dest
+410;Transmissora Sul Brasileira de Energia S.A.;TSBE;4.Submetido;Estatal;EXE-Dest
+411;Transmissora Sul Litorânea de Energia S.A.;TSLE;0.Excluído;Estatal;EXE-Dest
+412;Amazonas Geração e Transmissão de Energia S.A.;AmGT;4.Submetido;Estatal;EXE-Dest
+413;Termoaçu S.A.;TERMOAÇU;0.Excluído;Estatal;EXE-Dest
+414;Araucária Nitrogenados S.A.;ARAUCÁRIA;4.Submetido;Estatal;EXE-Dest
+415;Companhia de Recuperação Secundária S.A.;CRSEC;0.Excluído;Estatal;EXE-Dest
+416;Empresa Brasileira de Administração de Petróleo e Gás Natural S.A. - Pré-Sal Petróleo S.A.;PPSA;4.Submetido;Estatal;EXE-Dest
+417;Transpetro International B.V.;TI B.V.;0.Excluído;Estatal;EXE-Dest
+418;CELG Distribuição S.A.;CELG D;0.Excluído;Estatal;EXE-Dest
+419;Nova Transportadora do Sudeste S.a.;NTS;0.Excluído;Estatal;EXE-Dest
+420;Nova Transportadora do Nordeste S.a.;NTN;0.Excluído;Estatal;EXE-Dest
+421;Linha Verde Transmissora de Energia S.A.;LVTE;0.Excluído;Estatal;EXE-Dest
+422;Petrobras Logística de Gás S.A.;LOGIGAS;4.Submetido;Estatal;EXE-Dest
+423;Brasil Ventos Energia S.A.;BVE;0.Excluído;Estatal;EXE-Dest
+424;Transenergia Goiás S.A.;TGO;4.Submetido;Estatal;EXE-Dest
+425;Geradora Eólica Ventos Angelim S.A.;V Angelim;0.Excluído;Estatal;EXE-Dest
+426;Geradora Eólica Ventos de Santa Rosa S.A.;V Sta Rosa;0.Excluído;Estatal;EXE-Dest
+427;Geradora Eólica Ventos de Uirapuru S.A.;V Uirapuru;0.Excluído;Estatal;EXE-Dest
+428;Geradora Eólica Arará Azul S.A.;Arará Azul;0.Excluído;Estatal;EXE-Dest
+429;Geradora Eólica Bentevi S.A.;Bentevi;0.Excluído;Estatal;EXE-Dest
+430;Geradora Eólica Ouro Verde I S.A.;Ouro Verde I S.A.;0.Excluído;Estatal;EXE-Dest
+431;Geradora Eólica Ouro Verde II S.A.;Ouro Verde II S.A.;0.Excluído;Estatal;EXE-Dest
+432;Geradora Eólica Ouro Verde III S.A.;Ouro Verde III S.A.;0.Excluído;Estatal;EXE-Dest
+433;Energia dos Ventos V S.A.;EDV V;0.Excluído;Estatal;EXE-Dest
+434;Energia dos Ventos VI S.A.;EDV VI;0.Excluído;Estatal;EXE-Dest
+435;Energia dos Ventos VII S.A.;EDV VII;0.Excluído;Estatal;EXE-Dest
+436;Energia dos Ventos VIII S.A.;EDV VIII;0.Excluído;Estatal;EXE-Dest
+437;Energia dos Ventos IX S.A.;EDV IX;0.Excluído;Estatal;EXE-Dest
+438;Fronteira Oeste Transmissora de Energia S.A.;FOTE;0.Excluído;Estatal;EXE-Dest
+439;Eólica Hermenegildo I S.A.;Eólica Hermenegildo I;4.Submetido;Estatal;EXE-Dest
+440;Eólica Hermenegildo II S.A.;Eólica Hermenegildo II;4.Submetido;Estatal;EXE-Dest
+441;Eólica Hermenegildo III S.A.;Eólica Hermenegildo III;4.Submetido;Estatal;EXE-Dest
+442;Eólica Chuí IX S.A.;Eólica Chuí IX;4.Submetido;Estatal;EXE-Dest
+443;Ministério Público Federal;MPF;4.Submetido;Funções Essenciais à Justiça;FEJ
+444;Ministério Público Militar;MPM;4.Submetido;Funções Essenciais à Justiça;FEJ
+445;Ministério Público do Distrito Federal e dos Territórios;MPDFT;4.Submetido;Funções Essenciais à Justiça;FEJ
+446;Ministério Público do Trabalho;MPT;4.Submetido;Funções Essenciais à Justiça;FEJ
+447;Escola Superior do Ministério Público da União;ESMPU;4.Submetido;Instituição de ensino;FEJ
+448;Ministério das Relações Exteriores;MRE;4.Submetido;Ministério;EXE-Sipec
+449;Fundação Alexandre de Gusmão;FUNAG;4.Submetido;Fundação;EXE-Sipec
+450;Ministério da Saúde;MS;4.Submetido;Ministério;EXE-Sipec
+451;Fundação Oswaldo Cruz;FIOCRUZ;4.Submetido;Fundação;EXE-Sipec
+452;Hospital Nossa Senhora da Conceição S.A.;Conceição;4.Submetido;Unidade de Saúde;EXE-Dest
+453;Fundação Nacional de Saúde;FUNASA;4.Submetido;Fundação;EXE-Sipec
+454;Agência Nacional de Vigilância Sanitária;ANVISA;4.Submetido;Autarquia;EXE-Sipec
+455;Agência Nacional de Saúde Suplementar;ANS;4.Submetido;Autarquia;EXE-Sipec
+456;Empresa Brasileira de Hemoderivados e Biotecnologia;HEMOBRÁS;4.Submetido;Estatal;EXE-Dest
+457;Fundo Nacional de Saúde;FNS;4.Submetido;Fundo;Fundo
+458;Ministério da Transparência e Controladoria-Geral da União;CGU;4.Submetido;Ministério;EXE-Sipec
+459;Ministério dos Transportes, Portos e Aviação Civil;MT;4.Submetido;Ministério;EXE-Sipec
+460;VALEC - Engenharia, Construções e Ferrovias S.A.;VALEC;4.Submetido;Estatal;EXE-Dest
+461;Companhia Docas do Ceará;CDC;4.Submetido;Estatal;EXE-Dest
+462;Companhia Docas do Espírito Santo;CODESA;4.Submetido;Estatal;EXE-Dest
+463;Companhia das Docas do Estado da Bahia;CODEBA;4.Submetido;Estatal;EXE-Dest
+464;Companhia Docas do Estado de São Paulo;CODESP;4.Submetido;Estatal;EXE-Dest
+465;Companhia Docas do Maranhão;CODOMAR;0.Excluído;Estatal;EXE-Dest
+466;Companhia Docas do Pará;CDP;4.Submetido;Estatal;EXE-Dest
+467;Companhia Docas do Rio de Janeiro;CDRJ;4.Submetido;Estatal;EXE-Dest
+468;Companhia Docas do Rio Grande do Norte;CODERN;4.Submetido;Estatal;EXE-Dest
+469;Agência Nacional de Transportes Terrestres;ANTT;4.Submetido;Autarquia;EXE-Sipec
+470;Agência Nacional de Transportes Aquaviários;ANTAQ;4.Submetido;Autarquia;EXE-Sipec
+471;Departamento Nacional de Infra-Estrutura de Transportes;DNIT;4.Submetido;Autarquia;EXE-Sipec
+472;Agência Nacional de Aviação Civil;ANAC;4.Submetido;Autarquia;EXE-Sipec
+473;Empresa Brasileira de Infraestrutura Aeroportuária;INFRAERO;4.Submetido;Estatal;EXE-Dest
+474;Fundo da Marinha Mercante;FMM;0.Excluído;Fundo;Fundo
+475;Fundo Nacional de Aviação Civil;FNAC;0.Excluído;Fundo;Fundo
+476;Ministério do Trabalho;MTb;4.Submetido;Ministério;EXE-Sipec
+477;Fundação Jorge Duprat Figueiredo de Segurança e Medicina do Trabalho;Fundacentro;4.Submetido;Fundação;EXE-Sipec
+478;Fundo de Amparo ao Trabalhador;FAT;0.Excluído;Fundo;Fundo
+479;Ministério da Cultura;MinC;4.Submetido;Ministério;EXE-Sipec
+480;Fundação Casa de Rui Barbosa;FCRB;4.Submetido;Fundação;EXE-Sipec
+481;Fundação Biblioteca Nacional;BN;4.Submetido;Fundação;EXE-Sipec
+482;Fundação Cultural Palmares;FCP;4.Submetido;Fundação;EXE-Sipec
+483;Instituto do Patrimônio Histórico e Artístico Nacional;IPHAN;4.Submetido;Autarquia;EXE-Sipec
+484;Fundação Nacional de Artes;FUNARTE;4.Submetido;Fundação;EXE-Sipec
+485;Agência Nacional do Cinema;ANCINE;4.Submetido;Autarquia;EXE-Sipec
+486;Instituto Brasileiro de Museus;IBRAM;4.Submetido;Autarquia;EXE-Sipec
+487;Fundo Nacional de Cultura;FNC;0.Excluído;Fundo;Fundo
+488;Ministério do Meio Ambiente;MMA;4.Submetido;Ministério;EXE-Sipec
+489;Serviço Florestal Brasileiro;SFB;4.Submetido;Órgão executivo (Adm. Direta);EXE-Sipec
+490;Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis;Ibama;4.Submetido;Autarquia;EXE-Sipec
+491;Agência Nacional de Águas;ANA;4.Submetido;Autarquia;EXE-Sipec
+492;Instituto de Pesquisas Jardim Botânico do Rio de Janeiro;JBRJ;4.Submetido;Autarquia;EXE-Sipec
+493;Instituto Chico Mendes de Conservação da Biodiversidade;ICMBIO;4.Submetido;Autarquia;EXE-Sipec
+494;Fundo Nacional de Meio Ambiente;FNMA;0.Excluído;Fundo;Fundo
+495;Fundo Nacional sobre Mudança do Clima;FNMC;0.Excluído;Fundo;Fundo
+496;Ministério do Planejamento, Desenvolvimento e Gestão;MPDG;4.Submetido;Ministério;EXE-Sipec
+497;Instituto de Pesquisa Econômica Aplicada;IPEA;4.Submetido;Fundação;EXE-Sipec
+498;Fundação Instituto Brasileiro de Geografia e Estatística;IBGE;4.Submetido;Fundação;EXE-Sipec
+499;Banco Nacional de Desenvolvimento Econômico e Social;BNDES;4.Submetido;Banco;EXE-Dest
+500;Bndes - Participações S.A.;BNDESPAR;4.Submetido;Banco;EXE-Dest
+501;Agência Especial de Financiamento Industrial;FINAME;4.Submetido;Estatal;EXE-Dest
+502;Fundação Escola Nacional de Administração Pública;ENAP;4.Submetido;Instituição de ensino;EXE-Sipec
+503;BNDES PLC;BNDES PLC;0.Excluído;Banco;EXE-Dest
+504;Agência Brasileira Gestora de Fundos Garantidores e Garantias S.A.;ABGF;4.Submetido;Estatal;EXE-Dest
+505;Fundo de Garantia para Promoção da Competitividade;FGPC;0.Excluído;Fundo;Fundo
+506;Ministério do Esporte;ME;4.Submetido;Ministério;EXE-Sipec
+507;Autoridade Pública Olímpica;APO;0.Excluído;Inexistente;Inexistente
+508;Autoridade de Governança do Legado Olímpico;AGLO;0.Excluído;Autarquia;EXE-Sipec
+509;Ministério da Defesa;MD;4.Submetido;Ministério;EXE-Sipec
+510;Comando da Aeronáutica;COMAER;4.Submetido;Militar;EXE-Mil
+511;Comando do Exército;CEX;4.Submetido;Militar;EXE-Mil
+512;Comando da Marinha;CM;4.Submetido;Militar;EXE-Mil
+513;Secretaria da Comissão Interministerial para os Recursos do Mar;SECIRM;0.Excluído;Militar;EXE-Mil
+514;Caixa de Financiamento Imobiliário da Aeronáutica;CFIAe;4.Submetido;Fundo;Fundo
+515;Indústria de Material Bélico do Brasil;IMBEL;4.Submetido;Estatal;EXE-Dest
+516;Fundação Osório;FOSORIO;4.Submetido;Fundação;EXE-Sipec
+517;Empresa Gerencial de Projetos Navais;EMGEPRON;4.Submetido;Estatal;EXE-Dest
+518;Caixa de Construções de Casas para o Pessoal da Marinha;CCCPM;4.Submetido;Fundo;Fundo
+519;Amazônia Azul Tecnologias de Defesa S.A.;AMAZUL;4.Submetido;Estatal;EXE-Dest
+520;Fundo do Ministério da Defesa;FMD;0.Excluído;Fundo;Fundo
+521;Hospital das Forças Armadas;HFA;4.Submetido;Unidade de Saúde;EXE-Sipec
+522;Fundo do Serviço Militar;FSM;0.Excluído;Fundo;Fundo
+523;Fundo Aeronáutico;FAERO;0.Excluído;Fundo;Fundo
+524;Fundo do Exército;FEX;0.Excluído;Fundo;Fundo
+525;Fundo Naval;Fundo Naval;0.Excluído;Fundo;Fundo
+526;Fundo de Desenvolvimento do Ensino Profissional Marítimo;FDEPM;0.Excluído;Fundo;Fundo
+527;Ministério da Integração Nacional;MI;4.Submetido;Ministério;EXE-Sipec
+528;Companhia de Desenvolvimento dos Vales do São Francisco e do Parnaíba;CODEVASF;4.Submetido;Estatal;EXE-Dest
+529;Superintendência do Desenvolvimento da Amazônia;SUDAM;4.Submetido;Autarquia;EXE-Sipec
+530;Superintendência do Desenvolvimento do Nordeste;SUDENE;4.Submetido;Autarquia;EXE-Sipec
+531;Departamento Nacional de Obras Contra as Secas;DNOCS;4.Submetido;Autarquia;EXE-Sipec
+532;Superintendência do Desenvolvimento do Centro-Oeste;SUDECO;4.Submetido;Autarquia;EXE-Sipec
+533;Ministério do Turismo;MTur;4.Submetido;Ministério;EXE-Sipec
+534;Instituto Brasileiro de Turismo;EMBRATUR;4.Submetido;Autarquia;EXE-Sipec
+535;Ministério do Desenvolvimento Social;MDS;4.Submetido;Ministério;EXE-Sipec
+536;Instituto Nacional do Seguro Social;INSS;4.Submetido;Autarquia;EXE-Sipec
+537;Fundo Nacional de Assistência Social;FNAS;0.Excluído;Fundo;Fundo
+538;Fundo do Regime Geral de Previdência Social;FRGPS;0.Excluído;Fundo;Fundo
+539;Ministério das Cidades;MCidades;4.Submetido;Ministério;EXE-Sipec
+540;Empresa de Trens Urbanos de Porto Alegre S.A.;TRENSURB;4.Submetido;Estatal;EXE-Dest
+541;Companhia Brasileira de Trens Urbanos;CBTU;4.Submetido;Estatal;EXE-Dest
+542;Fundo Nacional de Segurança e Educação do Trânsito;FUNSET;0.Excluído;Fundo;Fundo
+543;Fundo Nacional de Habitação de Interesse Social;FNHIS;0.Excluído;Fundo;Fundo
+544;Conselho Nacional do Ministério Público;CNMP;4.Submetido;Funções Essenciais à Justiça;FEJ
+545;Gabinete da Vice-Presidência da República;VPR;4.Submetido;Órgão executivo (Adm. Direta);EXE-Sipec
+546;Advocacia-Geral da União;AGU;4.Submetido;Funções Essenciais à Justiça;FEJ
+547;Ministério dos Direitos Humanos;MDH;4.Submetido;Ministério;EXE-Sipec
+548;Fundo Nacional para a Criança e o Adolescente;FNCA;0.Excluído;Fundo;Fundo
+549;Fundo Nacional do Idoso;FNI;0.Excluído;Fundo;Fundo
+550;Agência Brasileira de Desenvolvimento Industrial;ABDI;4.Submetido;Paraestatal;Terceiro Setor
+551;Agência Brasileira de Promoção de Exportações e Investimentos;APEX Brasil;4.Submetido;Paraestatal;Terceiro Setor
+552;Agência Nacional de Assistência Técnica e Extensão Rural;ANATER;4.Submetido;Paraestatal;Terceiro Setor
+553;Associação Brasileira de Pesquisa e Inovação Industrial;Embrapii;4.Submetido;Paraestatal;Terceiro Setor
+554;Associação das Pioneiras Sociais;APS;4.Submetido;Paraestatal;Terceiro Setor
+555;Associação Instituto Nacional de Matemática Pura e Aplicada;Impa;4.Submetido;Instituição de ensino;EXE-Sipec
+556;Associação Rede Nacional de Ensino e Pesquisa;RNP;4.Submetido;Paraestatal;Terceiro Setor
+557;Central de Armazenagem e Distribuição de Insumos Estratégicos;Cenadi;0.Excluído;Unidade de Saúde;EXE-Sipec
+558;Centro Brasileiro de Pesquisas Físicas;CBPF;4.Submetido;Órgão executivo (Adm. Direta);EXE-Sipec
+559;Centro de Gestão e Estudos Estratégicos;CGEE;4.Submetido;Paraestatal;Terceiro Setor
+560;Centro de Tecnologia da Indústria Química e Têxtil do Senai/RJ;;0.Excluído;Paraestatal;Terceiro Setor
+561;Centro de Tecnologia da Informação Renato Archer;CTI;4.Submetido;Instituição de ensino;EXE-Sipec
+562;Centro de Tecnologia Mineral;Cetem;4.Submetido;Instituição de ensino;EXE-Sipec
+563;Centro Gestor e Operacional do Sistema de Proteção da Amazônia;Censipam;4.Submetido;Órgão executivo (Adm. Direta);EXE-Sipec
+564;Centro Nacional de Pesquisa em Energia e Materiais;CNPEM;4.Submetido;Paraestatal;Terceiro Setor
+565;Centro Nacional de Primatas;CENP;0.Excluído;Instituição de ensino;EXE-Sipec
+566;Comissão Executiva do Plano da Lavoura Cacaueira;Ceplac;0.Excluído;Órgão executivo (Adm. Direta);EXE-Sipec
+567;Conselho Administrativo de Recursos Fiscais;CARF;4.Submetido;Órgão executivo (Adm. Direta);EXE-Sipec
+568;Conselho da Justiça Federal;CJF;4.Submetido;Tribunal;JUD
+569;Conselho de Arquitetura e Urbanismo do Brasil;CAU/BR;4.Submetido;Conselho Profissional;Terceiro Setor
+570;Conselho de Controle de Atividades Financeiras;Coaf;0.Excluído;Conselho Profissional;Terceiro Setor
+571;Conselho Federal de Administração;CFA;4.Submetido;Conselho Profissional;Terceiro Setor
+572;Conselho Federal de Biblioteconomia;CFB;4.Submetido;Conselho Profissional;Terceiro Setor
+573;Conselho Federal de Biologia;CFBio;4.Submetido;Conselho Profissional;Terceiro Setor
+574;Conselho Federal de Biomedicina;CFBM;4.Submetido;Conselho Profissional;Terceiro Setor
+575;Conselho Federal de Contabilidade;CFC;4.Submetido;Conselho Profissional;Terceiro Setor
+576;Conselho Federal de Corretores de Imóveis;Cofeci;4.Submetido;Conselho Profissional;Terceiro Setor
+577;Conselho Federal de Economia;Cofecon;4.Submetido;Conselho Profissional;Terceiro Setor
+578;Conselho Federal de Economistas Domésticos;CFED;4.Submetido;Conselho Profissional;Terceiro Setor
+579;Conselho Federal de Educação Física;Confef;4.Submetido;Conselho Profissional;Terceiro Setor
+580;Conselho Federal de Enfermagem;Confen;4.Submetido;Conselho Profissional;Terceiro Setor
+581;Conselho Federal de Engenharia e Agronomia;Confea;4.Submetido;Conselho Profissional;Terceiro Setor
+582;Conselho Federal de Estatística;Confe;4.Submetido;Conselho Profissional;Terceiro Setor
+583;Conselho Federal de Farmácia;CFF;4.Submetido;Conselho Profissional;Terceiro Setor
+584;Conselho Federal de Fisioterapia e Terapia Ocupacional;Coffito;4.Submetido;Conselho Profissional;Terceiro Setor
+585;Conselho Federal de Fonoaudiologia;CFFA;4.Submetido;Conselho Profissional;Terceiro Setor
+586;Conselho Federal de Medicina;CFM;4.Submetido;Conselho Profissional;Terceiro Setor
+587;Conselho Federal de Medicina Veterinária;CFMV;4.Submetido;Conselho Profissional;Terceiro Setor
+588;Conselho Federal de Museologia;Cofem;4.Submetido;Conselho Profissional;Terceiro Setor
+589;Conselho Federal de Nutricionistas;CFN;4.Submetido;Conselho Profissional;Terceiro Setor
+590;Conselho Federal de Odontologia;CFO;4.Submetido;Conselho Profissional;Terceiro Setor
+591;Conselho Federal de Psicologia;CFP;4.Submetido;Conselho Profissional;Terceiro Setor
+592;Conselho Federal de Química;CFQ;4.Submetido;Conselho Profissional;Terceiro Setor
+593;Conselho Federal de Relações Públicas;Conferp;4.Submetido;Conselho Profissional;Terceiro Setor
+594;Conselho Federal de Representantes Comerciais;Confere;4.Submetido;Conselho Profissional;Terceiro Setor
+595;Conselho Federal de Serviço Social;CFESS;4.Submetido;Conselho Profissional;Terceiro Setor
+596;Conselho Nacional de Técnicos em Radiologia;Conter;4.Submetido;Conselho Profissional;Terceiro Setor
+597;Coordenadoria-geral do Programa de Desenvolvimento do Submarino com Propulsão Nuclear;COGESN;0.Excluído;Militar;EXE-Mil
+598;Eletrobrás Distribuição Roraima;EDRR;4.Submetido;Estatal;EXE-Dest
+599;Escola de Administração Fazendária;Esaf;4.Submetido;Instituição de ensino;EXE-Sipec
+600;Estado-Maior Conjunto das Forças Armadas;EMCFA;4.Submetido;Militar;EXE-Mil
+601;Estado-Maior da Aeronáutica;Emaer;0.Excluído;Militar;EXE-Mil
+602;Estado-Maior da Armada;EMA;0.Excluído;Militar;EXE-Mil
+603;Estado-Maior do Exército;EME;0.Excluído;Militar;EXE-Mil
+604;Fundação Banco do Brasil;FBB;4.Submetido;Fundação;EXE-Dest
+605;Fundação Habitacional do Exército;FHE;0.Excluído;Militar;EXE-Mil
+606;Fundo Constitucional de Financiamento do Centro-Oeste;FCO;0.Excluído;Fundo;Fundo
+607;Fundo Constitucional de Financiamento do Nordeste;FNE;0.Excluído;Fundo;Fundo
+608;Fundo Constitucional de Financiamento do Norte;FNO;0.Excluído;Fundo;Fundo
+609;Fundo Constitucional do Distrito Federal;FCDF;0.Excluído;Fundo;Fundo
+610;Fundo de Arrendamento Residencial;FAR;0.Excluído;Fundo;Fundo
+611;Fundo de Aval para Geração de Emprego e Renda;Funproger;0.Excluído;Fundo;Fundo
+612;Fundo de Desenvolvimento Social;FDS;0.Excluído;Fundo;Fundo
+613;Fundo de Financiamento ao Estudante do Ensino Superior;Fies;0.Excluído;Fundo;Fundo
+614;Fundo de Garantia à Exportação;FGE;0.Excluído;Fundo;Fundo
+615;Fundo de Garantia de Operações;FGO;0.Excluído;Fundo;Fundo
+616;Fundo de Garantia para Construção Naval;FGCN;0.Excluído;Fundo;Fundo
+617;Fundo de Garantia por Tempo de Serviço;FGTS;0.Excluído;Fundo;Fundo
+618;Fundo de Investimento do FGTS;FI/FGTS;0.Excluído;Fundo;Fundo
+619;Fundo de Participação PIS/PASEP;PIS/PASEP;0.Excluído;Fundo;Fundo
+620;Fundo Garantidor da Habitação Popular;FGHab;0.Excluído;Fundo;Fundo
+621;Fundo Garantidor de Parcerias Público-Privadas;FGP;0.Excluído;Fundo;Fundo
+622;Fundo Soberano do Brasil;FSB;0.Excluído;Fundo;Fundo
+623;Hospital Federal Cardoso Fontes;HFCF;4.Submetido;Unidade de Saúde;EXE-Sipec
+624;Hospital Federal da Lagoa;HFL;4.Submetido;Unidade de Saúde;EXE-Sipec
+625;Hospital Federal de Bonsucesso;HFB;4.Submetido;Unidade de Saúde;EXE-Sipec
+626;Hospital Federal do Andaraí;HFA(Andaraí-RJ);4.Submetido;Unidade de Saúde;EXE-Sipec
+627;Hospital Federal dos Servidores Do Estado;HFSE;4.Submetido;Unidade de Saúde;EXE-Sipec
+628;Hospital Federal Ipanema;HFI;4.Submetido;Unidade de Saúde;EXE-Sipec
+629;Instituto Brasileiro de Informação em Ciência e Tecnologia;IBICT;4.Submetido;Órgão executivo (Adm. Direta);EXE-Sipec
+630;Instituto de Desenvolvimento Sustentável Mamirauá;IDSM;4.Submetido;Paraestatal;Terceiro Setor
+631;Instituto Evandro Chagas;IEC;4.Submetido;Instituição de ensino;EXE-Sipec
+632;Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais;IFSudesteMG;0.Excluído;Instituição de ensino;EXE-Sipec
+633;Instituto Federal de Educação, Ciência e Tecnologia Farroupilha;IFFarroupilha;0.Excluído;Instituição de ensino;EXE-Sipec
+634;Instituto Nacional De Cardiologia;INC;4.Submetido;Unidade de Saúde;EXE-Sipec
+635;Instituto Nacional de Meteorologia;INMET;4.Submetido;Órgão executivo (Adm. Direta);EXE-Sipec
+636;Instituto Nacional de Pesquisas da Amazônia;Inpa;4.Submetido;Órgão executivo (Adm. Direta);EXE-Sipec
+637;Instituto Nacional de Pesquisas Espaciais;Inpe;4.Submetido;Autarquia;EXE-Sipec
+638;Instituto Nacional de Tecnologia;INT;4.Submetido;Órgão executivo (Adm. Direta);EXE-Sipec
+639;Instituto Nacional de Traumatologia e Ortopedia;Into;4.Submetido;Unidade de Saúde;EXE-Sipec
+640;Instituto Nacional do Câncer;Inca;4.Submetido;Unidade de Saúde;EXE-Sipec
+641;Instituto Nacional do Semiárido;INSA;4.Submetido;Instituição de ensino;EXE-Sipec
+642;Laboratório Nacional de Astrofísica;LNA;0.Excluído;Órgão executivo (Adm. Direta);EXE-Sipec
+643;Laboratório Nacional de Computação Científica;LNCC;4.Submetido;Instituição de ensino;EXE-Sipec
+644;Museu de Astronomia e Ciências Afins;MAST;4.Submetido;Instituição de ensino;EXE-Sipec
+645;Museu Paraense Emílio Goeldi;MPEG;4.Submetido;Instituição de ensino;EXE-Sipec
+646;Observatório Nacional;ON;4.Submetido;Órgão executivo (Adm. Direta);EXE-Sipec
+647;Secretaria do Tesouro Nacional;STN;4.Submetido;Órgão executivo (Adm. Direta);EXE-Sipec
+648;Serviço Brasileiro de Apoio às Micro e Pequenas Empresas - Departamento Nacional;Sebrae/DN;4.Submetido;Paraestatal;Terceiro Setor
+649;Serviço Nacional de Aprendizagem Comercial - Departamento Nacional;Senac/DN;4.Submetido;Paraestatal;Terceiro Setor
+650;Serviço Nacional de Aprendizagem do Cooperativismo - Unidade Nacional;Sescoop/UN;4.Submetido;Paraestatal;Terceiro Setor
+651;Serviço Nacional de Aprendizagem do Transporte - Conselho Nacional;Senat/CN;4.Submetido;Paraestatal;Terceiro Setor
+652;Serviço Nacional de Aprendizagem Industrial - Departamento Nacional;Senai/DN;1.Não iniciado;Paraestatal;Terceiro Setor
+653;Serviço Nacional de Aprendizagem Rural - Administração Central;Senar/Adm. Central;4.Submetido;Paraestatal;Terceiro Setor
+654;Serviço Social da Indústria - Conselho Nacional;Sesi/CN;0.Excluído;Paraestatal;Terceiro Setor
+655;Serviço Social da Indústria - Departamento Nacional;Sesi/DN;1.Não iniciado;Paraestatal;Terceiro Setor
+656;Serviço Social do Comércio - Administração Nacional;SESC;4.Submetido;Paraestatal;Terceiro Setor
+657;Serviço Social do Transporte - Conselho Nacional;Sest/CN;4.Submetido;Conselho Profissional;Terceiro Setor
+658;Exército/Departamento-Geral do Pessoal;DGP/EB;4.Submetido;Militar;EXE-Mil
+659;Exército/Departamento de Engenharia e Construção;DEC/EB;4.Submetido;Militar;EXE-Mil
+660;Exército/Departamento de Educação e Cultura do Exército;DECEx/EB;4.Submetido;Militar;EXE-Mil
+661;Exército/Comando de Operações Terrestres;COTER/EB;4.Submetido;Militar;EXE-Mil
+662;Exército/Departamento de Ciência e Tecnologia;DCT/EB;4.Submetido;Militar;EXE-Mil
+663;Exército/Secretaria de Economia e Finanças;SEF/EB;4.Submetido;Militar;EXE-Mil
+664;Exército/COLOG <U+2013> Comando Logístico;COLOG/EB;4.Submetido;Militar;EXE-Mil
+665;Agência Brasileira de Cooperação;ABC;0.Excluído;Paraestatal;Terceiro Setor
+666;Seção Judiciária do Distrito Federal;SJDF;4.Submetido;Tribunal;JUD
+667;Seção Judiciária do Estado da Bahia;JFBA;4.Submetido;Tribunal;JUD
+668;Seção Judiciária do Estado da Paraíba;JFPB;4.Submetido;Tribunal;JUD
+669;Seção Judiciária do Estado de Alagoas;SJAL;4.Submetido;Tribunal;JUD
+670;Seção Judiciária do Estado de Goiás;JFGO;4.Submetido;Tribunal;JUD
+671;Seção Judiciária do Estado de Mato Grosso;JFMT;4.Submetido;Tribunal;JUD
+672;Seção Judiciária do Estado de Minas Gerais;JFMG;4.Submetido;Tribunal;JUD
+673;Seção Judiciária do Estado de Pernambuco;SJPE;4.Submetido;Tribunal;JUD
+674;Seção Judiciária do Estado de Rondônia;JFRO;4.Submetido;Tribunal;JUD
+675;Seção Judiciária do Estado de Roraima;JFRR;4.Submetido;Tribunal;JUD
+676;Seção Judiciária do Estado de Santa Catarina;JFSC;4.Submetido;Tribunal;JUD
+677;Seção Judiciária do Estado de São Paulo;SJSP;4.Submetido;Tribunal;JUD
+678;Seção Judiciária do Estado de Sergipe;JFSE;4.Submetido;Tribunal;JUD
+679;Seção Judiciária do Estado de Tocantins;JFTO;4.Submetido;Tribunal;JUD
+680;Seção Judiciária do Estado do Acre;SJAC;4.Submetido;Tribunal;JUD
+681;Seção Judiciária do Estado do Amapá;SJAP;4.Submetido;Tribunal;JUD
+682;Seção Judiciária do Estado do Amazonas;JFAM;4.Submetido;Tribunal;JUD
+683;Seção Judiciária do Estado do Ceará;JFCE;4.Submetido;Tribunal;JUD
+684;Seção Judiciária do Estado do Espírito Santo;SJES;4.Submetido;Tribunal;JUD
+685;Seção Judiciária do Estado do Maranhão;SJ/MA;4.Submetido;Tribunal;JUD
+686;Seção Judiciária do Estado do Pará;SJPA;4.Submetido;Tribunal;JUD
+687;Seção Judiciária do Estado do Paraná;JFPR;4.Submetido;Tribunal;JUD
+688;Seção Judiciária do Estado do Piauí;SJPI;4.Submetido;Tribunal;JUD
+689;Seção Judiciária do Estado do Rio de Janeiro;JFRJ;4.Submetido;Tribunal;JUD
+690;Seção Judiciária do Estado do Rio Grande do Norte;JFRN;4.Submetido;Tribunal;JUD
+691;Seção Judiciária do Estado do Rio Grande do Sul;SJRS;4.Submetido;Tribunal;JUD
+692;Casa Civil;CC;4.Submetido;Órgão executivo (Adm. Direta);EXE-Sipec
+693;Eletrobras Distribuição Acre;Eletrobras-AC;0.Excluído;Estatal;EXE-Dest
+694;Eletrobras Distribuição Alagoas;Eletrobras-AL;0.Excluído;Estatal;EXE-Dest
+695;Eletrobras Distribuição Amazonas;Eletrobras-AM;0.Excluído;Estatal;EXE-Dest
+696;Eletrobras Distribuição Piauí;Eletrobras-PI;0.Excluído;Estatal;EXE-Dest
+697;Secretaria de Previdência;SPREV;4.Submetido;Órgão executivo (Adm. Direta);EXE-Sipec
+698;Subsecretaria de Planejamento, Orçamento e Administração/MF;SPOA-MF;4.Submetido;Órgão executivo (Adm. Direta);EXE-Sipec
+699;GDF/Polícia Civil do DF;PCDF;4.Submetido;Estadual/Distrital;GDF
+700;GDF/Corpo de Bombeiros Militar do DF;CBMDF;4.Submetido;Estadual/Distrital;GDF
+701;GDF/Polícia Militar do DF;PMDF;4.Submetido;Estadual/Distrital;GDF
+702;Universidade Federal de Rondonópolis;???;0.Excluído;;
+703;Universidade Federal de Jataí;???;0.Excluído;;
+704;Universidade Federal de Catalão;???;0.Excluído;;
+705;Conselho Federal dos Técnicos Industriais;???;0.Excluído;;
+706;Conselho Federal dos Técnicos Agrícolas;???;0.Excluído;;
+707;Maternidade Escola Januário Cicco;MEJC;4.Submetido;Unidade de Saúde;EXE-Sipec
+708;Hospital Universitário Ana Bezerra;HUAB;4.Submetido;Unidade de Saúde;EXE-Sipec
+709;Complexo Hospitalar e de Saúde da Universidade Federal do Rio Grande do Norte;CHS-UFRN;0.Excluído;Unidade de Saúde;EXE-Sipec
+710;Secretaria Especial da Aquicultura e da Pesca;SEAP;1.Não iniciado;;
